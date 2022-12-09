@@ -5,7 +5,7 @@ Twitter es una de las aplicaciones de redes sociales mas famosas, se ha observad
 - Exprese sus pensamientos escribiendo un tweet
 - Reciba notificaciones sobre quien es su nuevo seguidor
 - Manten tus ojos en interesantes historias y virales
-![alt text]([https://i.blogs.es/9a1251/nuevo-diseno-gmail-4/450_1000.jpg](https://www.soydemac.com/wp-content/uploads/2019/07/nueva-interfaz-web-twitter-830x535.png))
+![alt text](https://as01.epimg.net/betech/imagenes/2019/01/30/portada/1548869623_152253_1548870732_noticia_normal.jpg)
 
 # Gmail
 Google aprovecha el potencial que tiene el HTML5 para restringir la aplicacion Gmail para redefinir la experencia del usuario con excelentes caracteristicas y funcionalidades, etc. Google ha unido elementos nativos y HTML con exito en la aplicacion para hacerla mas significativa cocn un rendimiento perfecto.
