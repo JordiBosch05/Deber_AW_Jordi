@@ -5,7 +5,7 @@ Twitter es una de las aplicaciones de redes sociales mas famosas, se ha observad
 - Exprese sus pensamientos escribiendo un tweet
 - Reciba notificaciones sobre quien es su nuevo seguidor
 - Manten tus ojos en interesantes historias y virales
-![alt text](https://i.blogs.es/9a1251/nuevo-diseno-gmail-4/450_1000.jpg)
+![alt text]([https://i.blogs.es/9a1251/nuevo-diseno-gmail-4/450_1000.jpg](https://www.soydemac.com/wp-content/uploads/2019/07/nueva-interfaz-web-twitter-830x535.png))
 
 # Gmail
 Google aprovecha el potencial que tiene el HTML5 para restringir la aplicacion Gmail para redefinir la experencia del usuario con excelentes caracteristicas y funcionalidades, etc. Google ha unido elementos nativos y HTML con exito en la aplicacion para hacerla mas significativa cocn un rendimiento perfecto.
@@ -13,3 +13,4 @@ Google aprovecha el potencial que tiene el HTML5 para restringir la aplicacion G
 - La aplicacion gmail bloquea cualquier spam antes de que llegue a su bandeja de entrada
 - La aplicacion tiene 15 GB de almacenamiento de datos gratuito para guardar una gran cantidad de mensajes
 - Proporciona soporte para multiples cuentas para los usuarios.
+![alt text](https://i.blogs.es/9a1251/nuevo-diseno-gmail-4/450_1000.jpg)
