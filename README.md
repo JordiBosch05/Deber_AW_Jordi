@@ -13,4 +13,4 @@ Google aprovecha el potencial que tiene el HTML5 para restringir la aplicacion G
 - La aplicacion gmail bloquea cualquier spam antes de que llegue a su bandeja de entrada
 - La aplicacion tiene 15 GB de almacenamiento de datos gratuito para guardar una gran cantidad de mensajes
 - Proporciona soporte para multiples cuentas para los usuarios.
-![alt text](https://i.blogs.es/9a1251/nuevo-diseno-gmail-4/450_1000.jpg)
+![alt text](https://d500.epimg.net/cincodias/imagenes/2022/06/30/lifestyle/1656578860_903162_1656579078_sumario_normal.jpg)
